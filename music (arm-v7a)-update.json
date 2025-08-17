@@ -1,6 +1,6 @@
 {
   "version": "v8.31.51 (patches 5.33.0)",
-  "versionCode": 4,
-  "zipUrl": "https://github.com/shredthaGNAR/revanced-moduule-maker/releases/download/4/music-revanced-magisk-v8.31.51-arm-v7a.zip",
+  "versionCode": 5,
+  "zipUrl": "https://github.com/shredthaGNAR/revanced-moduule-maker/releases/download/5/music-revanced-magisk-v8.31.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/shredthaGNAR/revanced-moduule-maker/update/build.md"
 }
