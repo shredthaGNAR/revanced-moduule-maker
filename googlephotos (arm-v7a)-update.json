@@ -1,6 +1,6 @@
 {
-  "version": "v7.45.0.807274941 (patches 5.39.0)",
-  "versionCode": 11,
-  "zipUrl": "https://github.com/shredthaGNAR/revanced-moduule-maker/releases/download/11/googlephotos-revanced-magisk-v7.45.0.807274941-arm-v7a.zip",
+  "version": "v7.45.0.807274941 (patches 5.40.0)",
+  "versionCode": 12,
+  "zipUrl": "https://github.com/shredthaGNAR/revanced-moduule-maker/releases/download/12/googlephotos-revanced-magisk-v7.45.0.807274941-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/shredthaGNAR/revanced-moduule-maker/update/build.md"
 }
